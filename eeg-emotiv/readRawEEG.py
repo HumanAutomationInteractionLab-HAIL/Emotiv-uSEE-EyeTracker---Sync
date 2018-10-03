@@ -7,6 +7,8 @@ A demo for getting Emotiv eeg raw data in real time.
 Using Python websocket
 Real time eeg data will be printed in the terminal and written into a txt file.
 
+Emotiv Cortex need to be installed first. https://www.emotiv.com/developer/
+
 @author: zhangbo
 """
 # dependent pkgs install
