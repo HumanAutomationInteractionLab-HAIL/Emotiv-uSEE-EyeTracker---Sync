@@ -3,6 +3,9 @@
 """
 Created on Wed Oct  3 21:05:05 2018
 
+A demo for get Emotiv eeg raw data in real time.
+Using Python websocket
+
 @author: zhangbo
 """
 # dependent pkgs install
