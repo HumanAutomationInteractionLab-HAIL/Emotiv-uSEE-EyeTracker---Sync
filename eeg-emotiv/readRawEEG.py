@@ -3,7 +3,7 @@
 """
 Created on Wed Oct  3 21:05:05 2018
 
-A demo for get Emotiv eeg raw data in real time.
+A demo for getting Emotiv eeg raw data in real time.
 Using Python websocket
 
 @author: zhangbo
