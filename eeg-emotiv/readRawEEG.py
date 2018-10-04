@@ -6,6 +6,9 @@ Created on Wed Oct  3 21:05:05 2018
 A demo for getting Emotiv eeg raw data in real time.
 Using Python websocket
 Real time eeg data will be printed in the terminal and written into a txt file.
+The returned time here of each data =  "the time that data being received" - "the time cortex was started". However, the tricky is 
+we can't get "the time cortex was started". This is a bug and the Emotiv technical support has reported this issue to the Emotiv development
+team. Hope they will fix this as soon as possible.
 
 Emotiv Cortex need to be installed first. https://www.emotiv.com/developer/
 
