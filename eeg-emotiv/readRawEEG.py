@@ -23,10 +23,11 @@ import time
 import json
 
 # user information for login
-username = "bit"
-password = "Bit123456"
-client_id = "I2OZ3iYEn9gMLJfNDjXf3AlJzPVihaeSrNw5ceth"
-client_secret ="BBGcB3wkcTRTwiDupWxT0Yr6ucNeb4DeAi6WOxZSoDjPN7qMYuHZ44EoWkpWknBTNZns1DZw0ipR2j64lAT1TRAnSPFVK1Vd7cv8XCJyCuBaQYDk8iXcKg4iVdx3UWlA"
+# plese add this information for your device
+username = ""
+password = ""
+client_id = ""
+client_secret =""
 
 # establish websocket connect
 ws = websocket.WebSocket(sslopt={"cert_reqs": ssl.CERT_NONE})
