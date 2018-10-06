@@ -1,8 +1,0 @@
-{
-    "jsonrpc": "2.0",
-    "method": "logout",
-    "params": {
-        "username":"bit"
-     },
-    "id": 1
-  }
