@@ -1,9 +1,0 @@
-{
-    "jsonrpc": "2.0",
-    "method": "updateSession",
-    "params": {
-      "_auth": "",
-      "status": "close"
-    },
-    "id": 1
-  }
